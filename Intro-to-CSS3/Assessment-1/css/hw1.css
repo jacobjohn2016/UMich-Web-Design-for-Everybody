@@ -1,0 +1,32 @@
+header{
+    background: #8d8b8b;
+}
+h1{
+    color:#FFFFFF;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2 {
+    color: #002cbe;
+    text-transform: uppercase;
+}
+a{
+    color: #ca37dd;
+    background: #a5a5a5;
+}
+/* images not being displayed */
+.left{
+    display: none;
+}
+/* can also use: */
+/* img{
+    display: none;
+} */
+/* section color: */
+.right{
+    background: #7a7979;
+}
+/* can also use */
+/* section{
+    background: #7a7979;
+} */
