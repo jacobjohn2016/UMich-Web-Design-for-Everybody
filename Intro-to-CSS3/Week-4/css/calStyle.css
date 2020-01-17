@@ -9,7 +9,7 @@ table.cal {
 
 /*Alternate colors between even and odd weeks*/
 tr:nth-child(odd) {
-    background: #F2F2F2;
+    background: rgb(228, 227, 227);
 }
 
 tr:nth-child(even) {
