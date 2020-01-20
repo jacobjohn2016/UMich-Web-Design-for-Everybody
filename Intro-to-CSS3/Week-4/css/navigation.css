@@ -28,6 +28,10 @@ nav a{
 	margin:10px 0 10px 5px;
 }
 
+nav a:hover{
+    background-color: #788165;
+}
+
 section{
 	display: inline-block;
 	width:70%;
