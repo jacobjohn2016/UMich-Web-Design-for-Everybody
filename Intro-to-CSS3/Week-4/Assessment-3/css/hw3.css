@@ -62,3 +62,36 @@ section.right p h2{
     display: block;
     float: right;
 }
+section.right table{
+    margin: 0px auto;
+    width: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+section.right table th,td{
+    padding: 10px;
+}
+section.right table td{
+    color: rgba(128, 128, 128, 0.884);
+    background-color: rgba(224, 243, 213, 0.753);
+    text-align: center;
+    text-decoration: none;
+}
+section.right table td:hover{
+    background-color: rgba(224, 243, 213);
+}
+section.right table th{
+    color: white;
+    background-color: #8fa560;
+    border-bottom: 3px solid #9ec061;
+    text-align: center;
+    border-radius: 5px 5px 0px 0px;
+}
+
+section.right table tr td:first-child{
+    text-align: left;
+}
+
+section.right table tr th:first-child{
+    text-align: left;
+}
