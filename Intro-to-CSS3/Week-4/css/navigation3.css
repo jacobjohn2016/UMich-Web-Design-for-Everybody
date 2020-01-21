@@ -75,4 +75,6 @@ nav li:hover ul {
 
 nav li ul li {
     display: block;
+    width: 100%;
+    text-align: left;
 }
